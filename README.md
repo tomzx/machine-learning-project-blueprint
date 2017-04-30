@@ -1,6 +1,10 @@
-# Machine Learning Blueprint
+# Machine Learning Project Blueprint
 
-This repository is an attempt at creating a common project structure for machine learning projects. It contains the following:
+This repository is an attempt at creating a common project structure for machine learning projects. The purpose is to make it easier for others to rapidly consume and understand your project and its results and to determine if it can be useful for their own project.
+
+
+
+The structure contains the following:
 
 * checkpoints: storage location for the weights of trained models.
 
